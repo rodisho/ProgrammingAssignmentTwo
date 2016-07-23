@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProgrammingAssignmentTwo</string>
+    <string name="professorName">Professor</string>
+    <string name="firstDegree">Computer Science</string>
+    <string name="secondDegree">Computer Science</string>
+    <string name="thirdDegree">Computer Science</string>
+    <string name="fourthDegree"></string>
+    <string name="ratingScale">0.0/5.0</string>
+    <string name="firstProfessor">John Baugh</string>
+    <string name="secondProfessor">Kiumi Akingbehir</string>
+    <string name="thirdProfessor">Bruce Elenbogen</string>
+    <string name="fourthProfessor">Jinhua Guo</string>
+    <string name="fifthProfessor">Maroune Kessentini</string>
+</resources>

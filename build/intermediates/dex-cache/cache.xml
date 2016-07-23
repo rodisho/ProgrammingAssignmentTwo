@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Rafi\Desktop\ProgrammingAssignmentTwo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Rafi\Desktop\ProgrammingAssignmentTwo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_17db4ee5afddf7cc8239b6d12d206b145b706e01\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rafi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Rafi\Desktop\ProgrammingAssignmentTwo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_4a539f477e809d01e31878737d9d4c279f912ebb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rafi\Desktop\ProgrammingAssignmentTwo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Rafi\Desktop\ProgrammingAssignmentTwo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.0_a5dfb2283fab9c9733a1f9f9d2ef5d34c59f124d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rafi\Desktop\ProgrammingAssignmentTwo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Rafi\Desktop\ProgrammingAssignmentTwo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_bf09b64be27c13a71222661f73b17446ce4f8f87\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rafi\Desktop\ProgrammingAssignmentTwo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="86c84997b9d57d1b13d26bcaef552206ad4ffb60">
+        <dex dex="C:\Users\Rafi\Desktop\ProgrammingAssignmentTwo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_357f8aefdbe6d55261b4efdf11761d9b88c3296c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rafi\Desktop\ProgrammingAssignmentTwo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a389a3de50b4e0716feac7cf678556b3a9db1f8a">
+        <dex dex="C:\Users\Rafi\Desktop\ProgrammingAssignmentTwo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e99e7ce1e690514d28135cabcea0d3e00f8ad797\classes.dex" />
+    </item>
+
+</items>
